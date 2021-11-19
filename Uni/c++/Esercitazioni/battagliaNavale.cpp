@@ -82,16 +82,16 @@ int main()
     char prompt;
     while (1)
     {
-        cout << "Please input location: ";
+        cout << "Inserire posizione x y: ";
         cin >> pos1 >> pos2;
         if (Attack(pos1, pos2))
-            cout << "You got me! :)" << endl;
+            cout << "Nave Nemica affondata." << endl;
         else
-            cout << "Sorry no ship at that position!" << endl;
-        cout << "Number of ships left: " << NumberOfShips() << endl;
-        cout << "Do you want to surrender (y/n)? ";
+            cout << "Nessuna nave affondata" << endl;
+        cout << "Numero di navi rimaste: " << NumberOfShips() << endl;
+        cout << "Vuoi arrenderti (s/n)? ";
         cin >> prompt;
-        if (prompt == 'y')
+        if (prompt == 's')
             break;
     }
     cout << "Game over!" << endl;
