@@ -11,9 +11,8 @@ sorelle.
 
 using namespace std;
 
-bool isSiblings(string *A)
+bool isSiblings(string **A)
 {
-    
     
 }
 
