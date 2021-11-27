@@ -19,7 +19,7 @@ tipo_in_uscita nome_funzione(tipo_in_input1, tipo_in_input2, ...)
 Compilazione libreria(da cartella Esempi):
     g++ -c libreria/lib.cpp
     &&
-    g++ libreria/lib.o funzioni.cpp -o funzioni
+    g++ libreria/lib.o libreria/funzioni.cpp -o funzioni
 */
 
 int main()
