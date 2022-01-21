@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "libreria/lib.h"
+#include "./lib.h"
 
 using namespace std;
 

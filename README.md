@@ -1,8 +1,8 @@
-# EserciziScuola
+# Esercizi di programmazione (programming exercises)
 
-## Scuola
+## Scuola (School)
 - c#
 
-## Università
+## Università (University)
 - c++
 - assembly
