@@ -6,3 +6,6 @@
 ## Università (University)
 - c++
 - assembly ARM
+
+## [License](LICENSE)
+- Unlicense
