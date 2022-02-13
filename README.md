@@ -5,4 +5,4 @@
 
 ## Università (University)
 - c++
-- assembly
+- assembly ARM
