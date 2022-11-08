@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(58, 85, 136);
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+
+select {
+  background-color: rgb(111, 155, 168);
+  border-color: rgba(0, 0, 0, 0);
+  border-radius: 3px;
+}
+
+table,
+td,
+th,
+tr {
+  border-radius: 5px;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  border: 1px solid black;
+}
+
+form {
+  text-align: center;
+  border-color: black;
+}
+
+input[type="button"] {
+  background-color: rgb(59, 114, 117);
+  border-color: rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="submit"] {
+  background-color: rgb(231, 181, 119);
+  border-color: rgba(0, 0, 0, 0);
+  border-radius: 20px;
+  text-align: center;
+}
+
+input[type="number"] {
+  background-color: rgba(0, 0, 0, 0.503);
+  border-color: rgba(0, 0, 0, 0);
+  border-radius: 20px;
+  text-align: center;
+}
+
+input[type="text"] {
+  background-color: rgba(0, 0, 0, 0.231);
+  border-color: rgb(58, 45, 98);
+  text-align: center;
+  border-radius: 5px;
+}
+
+h2 {
+  color: deeppink;
+  text-align: center;
+}
+
+b {
+  font-size: 30px;
+}
+
+p {
+  color: rgb(0, 25, 54);
+  font-size: 70px;
+}
