@@ -1,11 +1,7 @@
-# Esercizi di programmazione (programming exercises)
+# My code lab
 
-## Scuola (School)
-- c#
-
-## Università (University)
-- c++
-- assembly ARM
+## Repository containing code written at random during my life as a programmer
 
 ## [License](LICENSE)
+
 - Unlicense
