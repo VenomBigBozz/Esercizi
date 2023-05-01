@@ -32,9 +32,9 @@ bool Prime(int x) {
 }
 
 void main() {
-  var rng = new Random();
+  Random random = new Random();
   for (int i = 0; i < 10; i++) {
-    int x = rng.nextInt(100);
+    int x = random.nextInt(100);
     print("$x ${Prime(x)}");
   }
   Eratostene(100);
